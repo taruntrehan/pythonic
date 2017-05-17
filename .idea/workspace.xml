@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637b42cc-99d8-40f0-a35d-be544283f4b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Divisor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListItems.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListOverlap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Palindrome.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OddEven.py" afterPath="$PROJECT_DIR$/OddEven.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListOverlap.py" afterPath="$PROJECT_DIR$/ListOverlap.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListOverlap.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListOverlap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ListOverlap.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palindrome.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -81,6 +89,7 @@
         <option value="$PROJECT_DIR$/Divisor.py" />
         <option value="$PROJECT_DIR$/LineOverlap.py" />
         <option value="$PROJECT_DIR$/ListOverlap.py" />
+        <option value="$PROJECT_DIR$/Palindrome.py" />
       </list>
     </option>
   </component>
@@ -146,25 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LineOverlap">
-    <configuration default="false" name="CharInput" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CharInput.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Palindrome">
     <configuration default="false" name="OddEven" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,6 +228,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,19 +311,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CharInput" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OddEven" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ListItems" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Divisor" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LineOverlap" />
+      <item index="0" class="java.lang.String" itemvalue="Python.OddEven" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ListItems" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Divisor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LineOverlap" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Palindrome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LineOverlap" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Divisor" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ListItems" />
-        <item index="3" class="java.lang.String" itemvalue="Python.OddEven" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CharInput" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Palindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LineOverlap" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Divisor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ListItems" />
+        <item index="4" class="java.lang.String" itemvalue="Python.OddEven" />
       </list>
     </recent_temporary>
   </component>
@@ -333,9 +342,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="789" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -397,8 +405,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ListOverlap.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
