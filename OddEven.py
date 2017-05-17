@@ -1,6 +1,6 @@
 import datetime
 
-# Get Input Name
+# Get Input Number
 number = input("Enter number")
 number = int(number)
 div = number%2
