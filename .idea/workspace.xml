@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637b42cc-99d8-40f0-a35d-be544283f4b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuessNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListComprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListElements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringUtils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dedupe.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CharInput.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CharInput.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OddEven.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OddEven.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,17 +59,27 @@
         <entry file="file://$PROJECT_DIR$/ListElements.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringUtils.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dedupe.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dedupe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringUtils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StringUtils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -136,6 +133,7 @@
         <option value="$PROJECT_DIR$/GuessNumber.py" />
         <option value="$PROJECT_DIR$/ListElements.py" />
         <option value="$PROJECT_DIR$/StringUtils.py" />
+        <option value="$PROJECT_DIR$/NamesSet.py" />
       </list>
     </option>
   </component>
@@ -201,25 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringUtils">
-    <configuration default="false" name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.NamesSet">
     <configuration default="false" name="ListComprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +272,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="NamesSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dedupe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,19 +355,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Palindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ListComprehensions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.GuessNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ListElements" />
-      <item index="4" class="java.lang.String" itemvalue="Python.StringUtils" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ListComprehensions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GuessNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ListElements" />
+      <item index="3" class="java.lang.String" itemvalue="Python.StringUtils" />
+      <item index="4" class="java.lang.String" itemvalue="Python.NamesSet" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.StringUtils" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ListElements" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GuessNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ListComprehensions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Python.NamesSet" />
+        <item index="1" class="java.lang.String" itemvalue="Python.StringUtils" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ListElements" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GuessNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ListComprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -388,9 +386,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="789" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -602,18 +599,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ListElements.py">
+    <entry file="file://$PROJECT_DIR$/StringUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringUtils.py">
+    <entry file="file://$PROJECT_DIR$/ListElements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dedupe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
