@@ -10,10 +10,13 @@ Few examples of code are:
 2. Write a function to extract month year from input date.
 
 ### Steps to run.
-1. Coming Soon.
+1. Suggest you to install Visual Studio Code.
+2. Run code directly in terminal by righ clicking on file and choosing option to run.
+3. Search the internet on how to start terminal within visual studio code window.
 
 ### Reading Guide Order
-1. Coming Soon.
+1. CharInput.py
+2. 
 
 ### Intermediate And Advanced
 1. Coming Soon.
