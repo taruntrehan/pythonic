@@ -1,5 +1,3 @@
-import datetime
-
 # Get Input Number
 number = input("Enter number")
 number = int(number)
@@ -9,4 +7,3 @@ if number % 2 == 0:
     print("Its an even number")
 else:
     print("Its an odd number")
-print("Here")
