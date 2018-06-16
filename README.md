@@ -16,7 +16,9 @@ Few examples of code are:
 
 ### Reading Guide Order
 1. CharInput.py
-2. 
+2. IfElseOddEven.py
+3. Looping.py
+4. 
 
 ### Intermediate And Advanced
 1. Coming Soon.
