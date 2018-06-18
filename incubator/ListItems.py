@@ -1,9 +1,9 @@
+def simpleArraySum(ar):
+    sum=0
+    for i in inputList:
+        sum=sum+i
+    return str(sum)    
 # Input list
-a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-# Iterate List
-for i in a:
-    if i>5:
-        print("This number is less than 5:"+str(i))
-
-# try the same code in one line.
-print ([x for x in [3,4,7,8] if x<5])
+inputList = [1, 1, 2, 3, 5]
+sumVal=simpleArraySum(inputList)
+print(sumVal)
