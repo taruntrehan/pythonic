@@ -15,4 +15,5 @@ def aVeryBigSum(inputArr):
                 print("Valid")
                 sumVal=int(sumVal)+int(x);
     print("SumVal:"+str(sumVal))
+    return sumVal
 retArrVal=aVeryBigSum([1000000001,1000000002,1000000003,1000000004,1000000005])
