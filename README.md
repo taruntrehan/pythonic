@@ -18,7 +18,9 @@ Few examples of code are:
 1. CharInput.py
 2. IfElseOddEven.py
 3. Looping.py
-4. 
+4. ListItems.py
+5. FileOperations.py
+6. 
 
 ### Intermediate And Advanced
 1. Coming Soon.
