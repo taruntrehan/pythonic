@@ -15,12 +15,17 @@ Few examples of code are:
 3. Search the internet on how to start terminal within visual studio code window.
 
 ### Reading Guide Order
-1. CharInput.py
+1. CharInputAndCasting.py
 2. IfElseOddEven.py
 3. Looping.py
 4. ListItems.py
 5. FileOperations.py
-6. 
+6. Functions.py
+7. GuessRandomNumber.py
+8. Palindrome.py
+9. PasswordGenerator.py
+10. StringUtils.py
+11. 
 
 ### Intermediate And Advanced
 1. Coming Soon.

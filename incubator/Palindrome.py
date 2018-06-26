@@ -1,4 +1,4 @@
-inpStr = "nitin"
+inpStr = "Tarun"
 print("Input String is:"+inpStr)
 length = inpStr.__len__();
 print("Input String length:"+str(length))
