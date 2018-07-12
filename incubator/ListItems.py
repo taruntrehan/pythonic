@@ -5,5 +5,6 @@ def simpleArraySum(ar):
     return str(sum)    
 # Input list
 inputList = [1, 1, 2, 3, 5]
+inputList.append(34)
 sumVal=simpleArraySum(inputList)
 print(sumVal)
